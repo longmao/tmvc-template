@@ -14,7 +14,7 @@ TMVC.isDebug = false;
 
 					   tag:"20130106",
 
-					   path:"http://172.30.10.76:8000/",  // cdn涓婇�褰撲慨鏀瑰搴旇矾寰�
+					   path:"http://172.30.10.76:8000/",  // cdn上适当修改对应路径
 
 					   charset:"gbk",
 
