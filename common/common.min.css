@@ -1,7 +1,1 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
-</head><body>
-<h1>Not Found</h1>
-<p>The requested URL /static/spa/tmvc-template/common.min.css was not found on this server.</p>
-</body></html>
+body{margin:0;padding:0;overflow-x:hidden}#main{position:relative;overflow:hidden;z-index:1000}.loadding{position:absolute;z-index:0;opacity:0;left:50%;margin-left:-73px;margin-top:-48px}#header{height:30px;background-color:#333}.navbar-toggle.collapsed .icon-bar{background-color:#563d7c}
